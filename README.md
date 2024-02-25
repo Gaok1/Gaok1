@@ -12,9 +12,13 @@ Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)
 
+## Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaok1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato
 
 Você pode me encontrar em outras plataformas:
 
-- LinkedIn: [Seu LinkedIn]([link_do_seu_perfil_do_LinkedIn](https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/)https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/)
-- Email: luisphilliplemosmartins@yahoo.com.br
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisphilliplemosmartins@gmail.com)
