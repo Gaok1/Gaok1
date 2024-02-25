@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**Gaok1/Gaok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado em Java, C++ e C.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Computação
+- 💻 Interessado em Java, C++ e C
+- 🌱 Sempre aprendendo e explorando novas tecnologias
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)
+
+## Contato
+
+Você pode me encontrar em outras plataformas:
+
+- LinkedIn: [Seu LinkedIn]([link_do_seu_perfil_do_LinkedIn](https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/)https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/)
+- Email: luisphilliplemosmartins@yahoo.com.br
