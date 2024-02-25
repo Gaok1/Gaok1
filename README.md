@@ -10,13 +10,13 @@ Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado 
 
 ## Tecnologias Favoritas
 
-- ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white) 
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+- ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white) Java Swing
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) Spring Boot
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) Bootstrap
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaok1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
