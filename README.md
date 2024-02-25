@@ -10,13 +10,18 @@ Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado 
 
 ## Tecnologias Favoritas
 
-- ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white) 
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaok1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Gaok1">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl" />
+</a>
+<a href="https://github.com/Gaok1">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaok1&layout=compact&langs_count=8&card_width=250&theme=nightowl" />
+</a>
 
 ## Contato
 
