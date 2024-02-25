@@ -10,11 +10,7 @@ Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)
-
-## Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaok1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaok1&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
