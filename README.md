@@ -5,7 +5,7 @@ Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado 
 ## Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação
-- 💻 Interessado em Java, C++ e C
+- 💻 Interessado em Java, Rust e C
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 
 ## Tecnologias Favoritas
