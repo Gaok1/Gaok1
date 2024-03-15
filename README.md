@@ -1,6 +1,6 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Bem-vindo ao meu GitHub!
 
-Olá! Eu sou Luis Phillip, um estudante de Ciência da Computação interessado em Java, C++ e C.
+estudante de Ciência da Computação interessado em Java♨, Rust🦀 e C ©️.
 
 ## Sobre Mim
 
