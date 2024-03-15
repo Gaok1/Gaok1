@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-estudante de Ciência da Computação interessado em Java♨, Rust🦀 e C ©️.
+estudante de Ciência da Computação interessado em Java☕, Rust🦀 e C ©️.
 
 ## Sobre Mim
 
