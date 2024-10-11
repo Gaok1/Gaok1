@@ -1,19 +1,39 @@
-# Bem-vindo ao meu GitHub!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 
-estudante de Ciência da Computação interessado em Java☕, Rust🦀 e C ©️.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luis+Phillip++;I'm+a+Computer+Science+Student;I+love+Rust+Programming;Welcome!+:%29)](https://git.io/typing-svg)
+<br>
+<br>
+<div align="center">  
+  <a href="https://github.com/luisphillip">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaok1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaok1&layout=compact&langs_count=6&theme=dark"/>
+</div>
+<div align="center">
 
-## Estatísticas do GitHub
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisphillip&theme=dark)
 
-<a href="https://github.com/Gaok1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gaok1&theme=nightowl" />
-</a>
-<a href="https://github.com/Gaok1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaok1&layout=compact&langs_count=8&card_width=250&theme=nightowl" />
-</a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luisphillip&theme=onestar&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+</div>
+<br>
+<div align="center">  
+<a href="https://www.instagram.com/luisphillip/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:luis.phillip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luisphillip/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+ 
+### Main
+[![My Skills](https://skillicons.dev/icons?i=rust,java,spring&perline=10)](https://skillicons.dev)
 
-## Contato
+### 🚒 Tools:
 
-Você pode me encontrar em outras plataformas:
+[![Tools](https://skillicons.dev/icons?i=vscode,github,windows,discord&perline=10)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisphilliplemosmartins@gmail.com)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisphillip}/count.svg"/></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
