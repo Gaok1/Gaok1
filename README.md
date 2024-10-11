@@ -19,13 +19,12 @@
 </div>
 <br>
 <div align="center">  
-<a href="https://www.instagram.com/luisphillip/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:luis.phillip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luisphillip/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:philliplemos909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
  
 ### Main
-[![My Skills](https://skillicons.dev/icons?i=rust,java,spring&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,spring,&perline=10)](https://skillicons.dev)
 
 ### 🚒 Tools:
 
