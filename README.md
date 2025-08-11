@@ -1,38 +1,76 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9945FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luis+Phillip++;I'm+a+Computer+Science+Student;I+love+Rust+Programming;Welcome!+:%29)](https://git.io/typing-svg)
-<br>
-<br>
+<div align="center">
+  
+# 🦀 Luis Phillip — Rust & Solana Developer 🚀
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&center=true&vCenter=true&width=800&lines=Don't+trust,+verify;Building+High-Performance+DApps;Rust+is+my+superpower;On-chain+Logic+%26+Off-chain+Integration;From+Anchor+to+Frontend+Integration)
+  
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="350" />
+
+</div>
+
+---
+
+## 🧩 About Me
+- 🎓 Computer Science student & blockchain enthusiast.
+- 💜 Passion for **Rust** and **Solana smart contracts** using Anchor.
+- 🛠 Building from **on-chain programs** to **frontend DApps**.
+
+---
+
+## 🛠 Tech Arsenal
+
+<div align="center">
+
+**💻 Languages & Blockchain**
+  
+[![Langs](https://skillicons.dev/icons?i=rust,ts,solidity,java,python,cpp,js&perline=8)](https://skillicons.dev)  
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor_Framework-4C4C6D?style=for-the-badge&logo=anchor&logoColor=white)
+
+**⚙ Frameworks & Tools**  
+
+[![Tools](https://skillicons.dev/icons?i=anchor,nodejs,spring,git,github,vscode,linux&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaok1&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaok1&layout=compact&theme=radical&langs_count=8"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaok1&theme=radical" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gaok1&theme=discord&row=1&column=6&no-bg=true&margin-w=10" />
+</div>
+
+---
+
+## 🌍 Connect with Me
 <div align="center">  
-  <a href="https://github.com/luisphillip">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaok1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaok1&layout=compact&langs_count=6&theme=dark"/>
+<a href="mailto:philliplemos909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisphillip&theme=dark)
-
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisphillip&theme=onestar&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</div>
-<br>
-<div align="center">  
-<a href = "mailto:philliplemos909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luis-phillip-lemos-martins-8b6788a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
- 
-### Main
-[![My Skills](https://skillicons.dev/icons?i=rust,java,spring,&perline=10)](https://skillicons.dev)
-
-### 🚒 Tools:
-
-[![Tools](https://skillicons.dev/icons?i=vscode,github,windows,discord&perline=10)](https://skillicons.dev)
+---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisphillip}/count.svg"/></p> 
-<br></div>
+  
+  
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9945FF&height=120&section=footer"/>
