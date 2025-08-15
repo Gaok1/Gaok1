@@ -3,9 +3,9 @@
 
 <div align="center">
   
-# 🦀 Luis Phillip — Rust & Solana Developer 🚀
+# 🦀 Luis Phillip  🚀
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&center=true&vCenter=true&width=800&lines=Don't+trust,+verify;Building+High-Performance+DApps;Rust+is+my+superpower;On-chain+Logic+%26+Off-chain+Integration;From+Anchor+to+Frontend+Integration)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&center=true&vCenter=true&width=800&lines=Don't+trust,+verify;Rust+projects+lover)
   
 <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="350" />
 
@@ -15,8 +15,7 @@
 
 ## 🧩 About Me
 - 🎓 Computer Science student & blockchain enthusiast.
-- 💜 Passion for **Rust** and **Solana smart contracts** using Anchor.
-- 🛠 Building from **on-chain programs** to **frontend DApps**.
+- 🛠 currently studying  **on-chain programs**.
 
 ---
 
