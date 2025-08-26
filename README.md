@@ -51,13 +51,6 @@
 
 ---
 
-## 🏆 Achievements & Badges
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gaok1&theme=discord&row=1&column=6&no-bg=true&margin-w=10" />
-</div>
-
----
-
 ## 🌍 Connect with Me
 <div align="center">  
 <a href="mailto:philliplemos909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
