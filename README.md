@@ -14,25 +14,21 @@
 ---
 
 ## 🧩 About Me
-- 🎓 Computer Science student & blockchain enthusiast.
-- 🛠 currently studying  **on-chain programs**.
-
+- 🎓 Computer Science student
 ---
 
 ## 🛠 Tech Arsenal
 
 <div align="center">
 
-**💻 Languages & Blockchain**
+**💻 Languages **
   
 [![Langs](https://skillicons.dev/icons?i=rust,ts,solidity,java,python,cpp,js&perline=8)](https://skillicons.dev)  
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor_Framework-4C4C6D?style=for-the-badge&logo=anchor&logoColor=white)
+
 
 **⚙ Frameworks & Tools**  
 
-[![Tools](https://skillicons.dev/icons?i=anchor,nodejs,spring,git,github,vscode,linux&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=nodejs,spring,git,github,vscode,linux&perline=8)](https://skillicons.dev)
 
 </div>
 
