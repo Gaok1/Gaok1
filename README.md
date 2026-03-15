@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+close+to+the+metal.;Memory+is+not+magic+%E2%80%94+I+manage+it.;Writing+an+OS+in+Rust+%F0%9F%A6%80;Don%27t+trust%2C+verify.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+close+to+the+metal.;Memory+is+not+magic+%E2%80%94+I+manage+it;Don%27t+trust%2C+verify.)
 
 </div>
 
